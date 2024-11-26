@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    max-width: 400px;
+    gap: 10px;
+    border: 2px solid black;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+.flex-item {
+    border: 2px solid black;
+    padding: 25px;
+    border-radius: 5px; 
+    flex: 1 
+}
+.input {
+    display: block;
+    width: 100px;
+    padding: 30px;
+    border-radius: 5px;
+}
